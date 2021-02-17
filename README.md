@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ibrahem , junior software engineer.
 - 🎓 2020 graduate from Software Engineering department at Ain Shams University.
 - 🌱 Learning more about javascript.
-- 💞️ I’m looking Looking for software engineer job.
+- 💞️ I’m Looking for software engineer job.
 - 📌 Lives in Cairo, Egypt.
 
 <!---
